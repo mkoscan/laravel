@@ -1,0 +1,87 @@
+*{
+  border-radius: 0 !important;
+  }.nav.navbar-nav li a {
+   color: black;
+   font-family:Tahoma, Geneva, sans-serif;
+   font-size: 1.5em;
+
+ }
+.navbar { margin-bottom:0px !important;}
+
+.nav.navbar-nav li a:hover {
+ color: white;
+ background-color: rgb(96, 119, 213);
+ text-decoration: underline;
+}
+.navbar-color{
+	background-color: rgb(96, 119, 213);
+}
+.active{
+	background-color: rgb(97, 146, 211);
+}
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    color:black;
+    font-size: 1.5em;
+}
+.black{
+	color: black;
+}
+.center{
+	text-align: center;
+}
+.jumbotron{
+	background-color:black !important;
+	color:white !important;
+}
+.footer {
+	text-align: center;
+   position:fixed;
+   left:0px;
+   z-index: 999;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:black;
+   color: white;
+}
+.hr{
+	
+    height: 1px;
+   
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+.container-f{
+	margin-right:auto; 
+	margin-left:auto;
+	width: 500px;
+}
+.title-posts{
+  text-align: center;
+  padding-top: 5%;
+}
+.forma{
+  width: 50% !important;
+}
+.container-fluid{
+  padding-right:0 !important;
+    padding-left:0 !important;
+    margin-right:auto !important;
+    margin-left:auto !important;
+}
+.post{
+  margin: 5%;
+}
+.spacing{
+  margin-top: 18px;
+}
+
+.dropdown-toggle:visited{
+  background-color: rgb(96, 119, 213) !important;
+}
